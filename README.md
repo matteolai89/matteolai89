@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matteolai89
-- 👀 I’m interested in front end development and UX/UI
-- 🌱 I’m currently learning front end development languages
-- 💞️ I’m looking to collaborate on a front end or UX/UI team
+- 👀 I’m interested in Front-end development and UX/UI
+- 🌱 I learned Front-end development languages such as lateset JavaScript and React.js
+- 💞️ I’m looking to collaborate with a Front-end team or UX/UI team
 - 📫 How to reach me matteo.lai89@gmail.com
 
 <!---
